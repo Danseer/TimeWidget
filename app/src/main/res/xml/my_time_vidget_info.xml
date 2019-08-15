@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/my_time_vidget"
+    android:initialLayout="@layout/my_time_vidget"
+    android:minWidth="180dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/terd"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
+
+    <!--70 * n – 30-->
